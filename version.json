@@ -1,10 +1,10 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "releaseDate": "2026-09-12",
-  "title": "THAIVPN Tools Update v2.0.1",
+  "title": "THAIVPN Tools Update v2.0.2",
   "changelog": [
-    "แก้ไขปุ่ม Scan ล้นขอบ และเพิ่มระบบ Auto-Clear Terminal Log บน Raspberry Pi Flasher"
+    "อัปเดต v2.0.2: แสดงเลขเวอร์ชันไดนามิกตรงโลโก้และชื่อโปรแกรม, ปรับแต่งปุ่ม Scan พอดีกรอบ, และเพิ่มระบบ Auto-Clear Log"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.1.zip",
-  "packageSize": 2560590
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.2.zip",
+  "packageSize": 2560671
 }
