@@ -1,10 +1,10 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "releaseDate": "2026-09-12",
-  "title": "THAIVPN Tools Update v2.0.3",
+  "title": "THAIVPN Tools Update v2.0.4",
   "changelog": [
-    "Release v2.0.3 with updated splash logo version badge and enhanced iOS flasher"
+    "อัปเดตระบบตรวจจับ Recovery Mode อัตโนมัติ, ปรับเลขเวอร์ชัน Splash Screen v2.0.4, และแก้ไขปุ่มล้น"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.3.zip",
-  "packageSize": 2572168
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.4.zip",
+  "packageSize": 2572686
 }
