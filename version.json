@@ -3,8 +3,8 @@
   "releaseDate": "2026-09-12",
   "title": "THAIVPN Tools Update v2.0.1",
   "changelog": [
-    "แก้ปัญหา UAC elevate และอัปเดตระบบอัตโนมัติ"
+    "แก้ไขปุ่ม Scan ล้นขอบ และเพิ่มระบบ Auto-Clear Terminal Log บน Raspberry Pi Flasher"
   ],
   "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.1.zip",
-  "packageSize": 2560497
+  "packageSize": 2560590
 }
