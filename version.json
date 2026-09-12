@@ -1,10 +1,10 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "releaseDate": "2026-09-12",
-  "title": "THAIVPN Tools Update v2.0.2",
+  "title": "THAIVPN Tools Update v2.0.3",
   "changelog": [
-    "อัปเดต v2.0.2: แสดงเลขเวอร์ชันไดนามิกตรงโลโก้และชื่อโปรแกรม, ปรับแต่งปุ่ม Scan พอดีกรอบ, และเพิ่มระบบ Auto-Clear Log"
+    "Release v2.0.3 with updated splash logo version badge and enhanced iOS flasher"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.2.zip",
-  "packageSize": 2560671
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.3.zip",
+  "packageSize": 2572168
 }
