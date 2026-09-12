@@ -1,0 +1,10 @@
+{
+  "version": "2.0.1",
+  "releaseDate": "2026-09-12",
+  "title": "THAIVPN Tools Update v2.0.1",
+  "changelog": [
+    "ปรับปรุงหน้าต่าง Log ด้านขวา และระบบ Modern Glassmorphism Dialog"
+  ],
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.1.zip",
+  "packageSize": 2520761
+}
