@@ -1,10 +1,10 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "releaseDate": "2026-09-12",
-  "title": "THAIVPN Tools Update v2.0.4",
+  "title": "THAIVPN Tools Update v2.0.5",
   "changelog": [
-    "อัปเดตระบบตรวจจับ Recovery Mode อัตโนมัติ, ปรับเลขเวอร์ชัน Splash Screen v2.0.4, และแก้ไขปุ่มล้น"
+    "ตั้งค่าโหมด Clean Restore เป็นค่าเริ่มต้น พร้อมคำแนะนำ 3uTools สำหรับ Retain Data"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.4.zip",
-  "packageSize": 2572686
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.5.zip",
+  "packageSize": 2572573
 }
