@@ -1,10 +1,10 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "releaseDate": "2026-09-12",
-  "title": "THAIVPN Tools Update v2.0.5",
+  "title": "THAIVPN Tools Update v2.0.6",
   "changelog": [
-    "ตั้งค่าโหมด Clean Restore เป็นค่าเริ่มต้น พร้อมคำแนะนำ 3uTools สำหรับ Retain Data"
+    "นำระบบ Apple iOS Flasher ออกเรียบร้อยแล้ว"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.5.zip",
-  "packageSize": 2572573
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.6.zip",
+  "packageSize": 2558262
 }
