@@ -3,8 +3,8 @@
   "releaseDate": "2026-09-12",
   "title": "THAIVPN Tools Update v2.0.1",
   "changelog": [
-    "อัปเดตระบบ Auto-Updater Engine พร้อมสิทธิ์ Admin และ Hot-Patch สมบูรณ์แบบ"
+    "แก้ปัญหา UAC elevate และอัปเดตระบบอัตโนมัติ"
   ],
   "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.1.zip",
-  "packageSize": 2560447
+  "packageSize": 2560497
 }
