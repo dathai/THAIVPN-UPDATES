@@ -1,10 +1,10 @@
 {
-  "version": "2.0.6",
-  "releaseDate": "2026-09-12",
-  "title": "THAIVPN Tools Update v2.0.6",
+  "version": "2.0.7",
+  "releaseDate": "2026-09-20",
+  "title": "THAIVPN Tools Update v2.0.7",
   "changelog": [
-    "นำระบบ Apple iOS Flasher ออกเรียบร้อยแล้ว"
+    "แก้ไขระบบตรวจจับพอร์ต Unisoc/SPRD - เพิ่ม isSpd flag ในระบบสแกนพอร์ต - เพิ่ม SPD badge ใน Live Monitor - รองรับ VID 1782, SPRD, Unisoc, Spreadtrum"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.6.zip",
-  "packageSize": 2558262
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.7.zip",
+  "packageSize": 2558522
 }
