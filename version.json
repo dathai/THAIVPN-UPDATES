@@ -3,8 +3,8 @@
   "releaseDate": "2026-09-20",
   "title": "THAIVPN Tools Update v2.0.7",
   "changelog": [
-    "แก้ไขระบบตรวจจับพอร์ต Unisoc/SPRD - เพิ่ม isSpd flag ในระบบสแกนพอร์ต - เพิ่ม SPD badge ใน Live Monitor - รองรับ VID 1782, SPRD, Unisoc, Spreadtrum"
+    "แก้ไข SPD Flash - ใช้ --pac flag ที่ถูกต้อง + ระบบตรวจจับพอร์ต Unisoc/SPRD"
   ],
   "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.7.zip",
-  "packageSize": 2558522
+  "packageSize": 2558525
 }
