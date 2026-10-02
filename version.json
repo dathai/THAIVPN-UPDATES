@@ -1,10 +1,12 @@
 {
-  "version": "2.0.7",
-  "releaseDate": "2026-09-20",
-  "title": "THAIVPN Tools Update v2.0.7",
+  "version": "2.0.8",
+  "releaseDate": "2026-10-03",
+  "title": "THAIVPN Tools Update v2.0.8",
   "changelog": [
-    "แก้ไข SPD Flash - ใช้ --pac flag ที่ถูกต้อง + ระบบตรวจจับพอร์ต Unisoc/SPRD"
+    "เพิ่มระบบรวมไฟล์ดูดรอมเป็น PAC (Unisoc/SPRD)",
+    "แก้ไขระบบซิงค์ไฟล์ Dump อัตโนมัติ",
+    "ปรับปรุง UI หน้า Mobile Tools ทุกแท็บ CPU"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.7.zip",
-  "packageSize": 2558525
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.8.zip",
+  "packageSize": 2585321
 }
