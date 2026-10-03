@@ -1,12 +1,13 @@
 {
-  "version": "2.0.8",
+  "version": "2.0.9",
   "releaseDate": "2026-10-03",
-  "title": "THAIVPN Tools Update v2.0.8",
+  "title": "THAIVPN Tools Update v2.0.9",
   "changelog": [
     "เพิ่มระบบรวมไฟล์ดูดรอมเป็น PAC (Unisoc/SPRD)",
+    "แก้ไขไอคอน CPU Tabs หายไม่แสดง",
     "แก้ไขระบบซิงค์ไฟล์ Dump อัตโนมัติ",
     "ปรับปรุง UI หน้า Mobile Tools ทุกแท็บ CPU"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.8.zip",
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.0.9.zip",
   "packageSize": 3903052
 }
