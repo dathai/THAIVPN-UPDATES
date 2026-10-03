@@ -1,13 +1,10 @@
 {
-  "version": "2.1.0",
-  "releaseDate": "2026-10-04",
-  "title": "THAIVPN Tools Update v2.1.0",
+  "version": "2.2.0",
+  "releaseDate": "2026-10-03",
+  "title": "THAIVPN Tools Update v2.2.0",
   "changelog": [
-    "แก้ไขปลดล็อกซิม Unisoc - เขียน NV ทั้ง Main + Backup ป้องกัน restore กลับ",
-    "เพิ่มระบบรวมไฟล์ดูดรอมเป็น PAC (Unisoc/SPRD)",
-    "แก้ไขไอคอน CPU Tabs หายไม่แสดง",
-    "ปรับปรุง UI หน้า Mobile Tools ทุกแท็บ CPU"
+    "Release v2.2.0: IMEI Repair, Test Point Gallery, Driver Doctor, Backup Manager"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.1.0.zip",
-  "packageSize": 4004602
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.2.0.zip",
+  "packageSize": 4026398
 }
