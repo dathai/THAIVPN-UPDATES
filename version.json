@@ -1,10 +1,10 @@
 {
-  "version": "2.3.0",
-  "releaseDate": "2026-10-04",
-  "title": "THAIVPN Tools Update v2.3.0",
+  "version": "2.3.1",
+  "releaseDate": "2026-10-08",
+  "title": "THAIVPN Tools Update v2.3.1",
   "changelog": [
-    "ปรับโฉม Mobile Tools ใหม่ รองรับจอทุกขนาด, เมนู CPU สวยงามไม่ซ้อนทับ, รวม Universal IMEI จุดเดียว, อัปเกรด GSM Pro เต็มระบบ พร้อม Auto-Expand Console และ Toast แจ้งเตือน"
+    "ปรับปรุงหน้า Mobile Tools: เมนู CPU คลีนสวยงาม, Auto Preloader & Cloud Auth, ปรับปรุงปุ่มและคลัง Test Point"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.0.zip",
-  "packageSize": 4064233
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.1.zip",
+  "packageSize": 18594030
 }
