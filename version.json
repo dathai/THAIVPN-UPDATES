@@ -1,10 +1,10 @@
 {
-  "version": "2.3.1",
+  "version": "2.3.2",
   "releaseDate": "2026-10-08",
-  "title": "THAIVPN Tools Update v2.3.1",
+  "title": "THAIVPN Tools Update v2.3.2",
   "changelog": [
-    "ปรับปรุงหน้า Mobile Tools: เมนู CPU คลีนสวยงาม, Auto Preloader & Cloud Auth, ปรับปรุงปุ่มและคลัง Test Point"
+    "รองรับเลือกโฟลเดอร์รอม Samsung แปลงเป็น MTK Scatter และแฟลชโหมด CPU UnlockTool Style"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.1.zip",
-  "packageSize": 18594030
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.2.zip",
+  "packageSize": 18596312
 }
