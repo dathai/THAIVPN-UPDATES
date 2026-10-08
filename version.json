@@ -1,10 +1,10 @@
 {
-  "version": "2.3.2",
+  "version": "2.3.3",
   "releaseDate": "2026-10-08",
-  "title": "THAIVPN Tools Update v2.3.2",
+  "title": "THAIVPN Tools Update v2.3.3",
   "changelog": [
-    "รองรับเลือกโฟลเดอร์รอม Samsung แปลงเป็น MTK Scatter และแฟลชโหมด CPU UnlockTool Style"
+    "ระบบกู้ชีพเครื่องดับ Samsung ผ่าน Test Point (TP BROM/EDL 9008) และแปลงไฟล์ Scatter MTK UnlockTool Style"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.2.zip",
-  "packageSize": 18596312
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.3.zip",
+  "packageSize": 18614203
 }
