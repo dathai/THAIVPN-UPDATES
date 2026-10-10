@@ -1,10 +1,15 @@
 {
-  "version": "2.3.4",
+  "version": "2.3.5",
   "releaseDate": "2026-10-10",
-  "title": "THAIVPN Tools Update v2.3.4",
+  "title": "THAIVPN Tools Update v2.3.5",
   "changelog": [
-    "เพิ่มศูนย์ไดรเวอร์ Driver Center, เครื่องมือ Huawei Fastboot & COM 1.0, และคอนโซล AT Command Terminal (ทำงานจริง 100%)"
+    "เพิ่ม 4 ระบบใหญ่สำหรับช่างมืออาชีพ (Real Operations):",
+    "- Qualcomm & MediaTek GPT Partition Manager (อ่าน/ดัมพ์, เขียนแฟลช, ลบพาร์ติชัน persist/boot/modem/userdata)",
+    "- MTP Push Browser Opener ปลด FRP ส่งคำสั่ง AT เปิด YouTube/Chrome/URL บนมือถือ Samsung ทันที",
+    "- Phone Data Backup & Migration ดึงรูปภาพ/ไฟล์ และส่งออก Contacts.vcf อัตโนมัติ",
+    "- Windows PE & Technician Bootable Creator ฟอร์แมตและเบิร์น Hiren's BootCD/WinPE ลง Flash Drive",
+    "- ปรับปรุงการแสดงผลเวอร์ชัน Log Console v2.3.5"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.4.zip",
-  "packageSize": 18831883
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.5.zip",
+  "packageSize": 18845555
 }
