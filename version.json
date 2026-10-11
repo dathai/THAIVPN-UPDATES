@@ -1,15 +1,17 @@
 {
-  "version": "2.3.5",
-  "releaseDate": "2026-10-10",
-  "title": "THAIVPN Tools Update v2.3.5",
+  "version": "2.3.6",
+  "releaseDate": "2026-10-11",
+  "title": "THAIVPN Tools Update v2.3.6",
   "changelog": [
-    "เพิ่ม 4 ระบบใหญ่สำหรับช่างมืออาชีพ (Real Operations):",
-    "- Qualcomm & MediaTek GPT Partition Manager (อ่าน/ดัมพ์, เขียนแฟลช, ลบพาร์ติชัน persist/boot/modem/userdata)",
-    "- MTP Push Browser Opener ปลด FRP ส่งคำสั่ง AT เปิด YouTube/Chrome/URL บนมือถือ Samsung ทันที",
-    "- Phone Data Backup & Migration ดึงรูปภาพ/ไฟล์ และส่งออก Contacts.vcf อัตโนมัติ",
-    "- Windows PE & Technician Bootable Creator ฟอร์แมตและเบิร์น Hiren's BootCD/WinPE ลง Flash Drive",
-    "- ปรับปรุงการแสดงผลเวอร์ชัน Log Console v2.3.5"
+    "ปรับปรุงโครงสร้างหน้าตาโปรแกรมใหม่ทั้งหมดเป็นหมวดหมู่ (Categorized Workstation)",
+    "- แถบนำทางด้านข้างแยก 3 หมวดหมู่ชัดเจน: PC & Windows Pro, Mobile Service Hub, Hardware & Rescue",
+    "- เพิ่มแถบ Sticky Filter Bar หน้าระบบ คัดกรอง 5 หมวดหมู่ (Admin Shortcuts, แบต & SMART ดิสก์, ซ่อมระบบ & Ventoy, ไดรเวอร์ & พอร์ต, เครือข่าย & DNS)",
+    "- ระบบ SSD/HDD S.M.A.R.T. Health และ Hardware Storage Diagnostics แท้ 100%",
+    "- วิเคราะห์สุขภาพแบตเตอรี่โน้ตบุ๊ก ละเอียดยัน Cycle Count / Wear Level และตรวจจับ Desktop PC",
+    "- ติดตั้ง Ventoy Multi-ISO USB Creator แท้ผ่าน Ventoy2Disk CLI",
+    "- เพิ่มฐานข้อมูล Samsung Pro Intelligence 2,646 รุ่น พร้อมคู่มือ Flash/Unlock และ PIT Parser",
+    "- ถอดแบรนด์ภายนอกออกทั้งหมด 100% ปรับเป็น Samsung Pro Service Suite"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.5.zip",
-  "packageSize": 18845555
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.6.zip",
+  "packageSize": 36005819
 }
