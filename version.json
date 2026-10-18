@@ -1,13 +1,10 @@
 {
-  "version": "2.3.7",
+  "version": "2.3.8",
   "releaseDate": "2026-10-18",
-  "title": "THAIVPN Tools Update v2.3.7",
+  "title": "THAIVPN Tools Update v2.3.8",
   "changelog": [
-    "อัปเกรดระบบ 2 ภาษา (ไทย/อังกฤษ) ครบถ้วน 100% ทั้งระบบ (1,023 คีย์)",
-    "- ปรับปรุงระบบแจ้งเตือน ADB สั้นกระชับ '❌ ไม่พบอุปกรณ์'",
-    "- ปรับปรุงการเชื่อมต่อ Wireless ADB ผ่าน Wi-Fi รองรับ IP/Port โดยตรง",
-    "- ปรับโครงสร้างแพ็กเกจให้ขนาดกะทัดรัดและประหยัดพื้นที่ยิ่งขึ้น"
+    "ปรับปรุงประสิทธิภาพและการทำงานทั่วไป"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.7.zip",
-  "packageSize": 36074464
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.8.zip",
+  "packageSize": 36075184
 }
