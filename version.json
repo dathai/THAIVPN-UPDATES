@@ -1,10 +1,10 @@
 {
-  "version": "2.3.8",
+  "version": "2.3.9",
   "releaseDate": "2026-10-18",
-  "title": "THAIVPN Tools Update v2.3.8",
+  "title": "THAIVPN Tools Update v2.3.9",
   "changelog": [
-    "ปรับปรุงประสิทธิภาพและการทำงานทั่วไป"
+    "เพิ่มระบบล็อกปุ่มทั้งหมดระหว่างแฟลช/ดูดรอม และปรับปรุงการอ่าน BootLoader (SPL)"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.8.zip",
-  "packageSize": 36075184
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.9.zip",
+  "packageSize": 36084256
 }
