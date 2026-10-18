@@ -1,17 +1,13 @@
 {
-  "version": "2.3.6",
-  "releaseDate": "2026-10-11",
-  "title": "THAIVPN Tools Update v2.3.6",
+  "version": "2.3.7",
+  "releaseDate": "2026-10-18",
+  "title": "THAIVPN Tools Update v2.3.7",
   "changelog": [
-    "ปรับปรุงโครงสร้างหน้าตาโปรแกรมใหม่ทั้งหมดเป็นหมวดหมู่ (Categorized Workstation)",
-    "- แถบนำทางด้านข้างแยก 3 หมวดหมู่ชัดเจน: PC & Windows Pro, Mobile Service Hub, Hardware & Rescue",
-    "- เพิ่มแถบ Sticky Filter Bar หน้าระบบ คัดกรอง 5 หมวดหมู่ (Admin Shortcuts, แบต & SMART ดิสก์, ซ่อมระบบ & Ventoy, ไดรเวอร์ & พอร์ต, เครือข่าย & DNS)",
-    "- ระบบ SSD/HDD S.M.A.R.T. Health และ Hardware Storage Diagnostics แท้ 100%",
-    "- วิเคราะห์สุขภาพแบตเตอรี่โน้ตบุ๊ก ละเอียดยัน Cycle Count / Wear Level และตรวจจับ Desktop PC",
-    "- ติดตั้ง Ventoy Multi-ISO USB Creator แท้ผ่าน Ventoy2Disk CLI",
-    "- เพิ่มฐานข้อมูล Samsung Pro Intelligence 2,646 รุ่น พร้อมคู่มือ Flash/Unlock และ PIT Parser",
-    "- ถอดแบรนด์ภายนอกออกทั้งหมด 100% ปรับเป็น Samsung Pro Service Suite"
+    "อัปเกรดระบบ 2 ภาษา (ไทย/อังกฤษ) ครบถ้วน 100% ทั้งระบบ (1,023 คีย์)",
+    "- ปรับปรุงระบบแจ้งเตือน ADB สั้นกระชับ '❌ ไม่พบอุปกรณ์'",
+    "- ปรับปรุงการเชื่อมต่อ Wireless ADB ผ่าน Wi-Fi รองรับ IP/Port โดยตรง",
+    "- ปรับโครงสร้างแพ็กเกจให้ขนาดกะทัดรัดและประหยัดพื้นที่ยิ่งขึ้น"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.6.zip",
-  "packageSize": 36005819
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.7.zip",
+  "packageSize": 36074464
 }
