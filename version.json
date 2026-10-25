@@ -1,10 +1,10 @@
 {
-  "version": "2.3.9",
-  "releaseDate": "2026-10-18",
-  "title": "THAIVPN Tools Update v2.3.9",
+  "version": "2.4.0",
+  "releaseDate": "2026-10-25",
+  "title": "THAIVPN Tools Update v2.4.0",
   "changelog": [
-    "เพิ่มระบบล็อกปุ่มทั้งหมดระหว่างแฟลช/ดูดรอม และปรับปรุงการอ่าน BootLoader (SPL)"
+    "อัปเกรดระบบจำลอง UnlockTool แท้ 100%, ปรับปรุงระบบ Real-time Log Stream, เพิ่มปุ่มยกเลิกแฟลชฉุกเฉิน, และบรรจุโปรแกรม AULA Keyboard แบบพกพา (Standalone Portable)"
   ],
-  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.3.9.zip",
-  "packageSize": 36084256
+  "patchUrl": "https://raw.githubusercontent.com/dathai/THAIVPN-UPDATES/main/patch-v2.4.0.zip",
+  "packageSize": 64378742
 }
